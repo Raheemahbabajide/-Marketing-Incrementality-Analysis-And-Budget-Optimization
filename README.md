@@ -1,8 +1,15 @@
 **Marketing-Incrementality-Analysis-And-Budget-Optimization**
 Marketing analytics project using A/B testing and ROI analysis to optimize ad spend
+
 **Overview**
 This project analyzes marketing campaign performance across multiple channels (Facebook, Google, Instagram) to evaluate efficiency, measure incrementality, and optimize budget allocation.
 The goal is to simulate how data science can drive better marketing decisions through ROI analysis and experimentation.
+
+** Key Results**
+
+- Google Ads achieved the highest ROI (4.47), making it the most efficient channel  
+- Instagram generated the highest revenue but required the highest spend  
+-  Facebook showed the lowest efficiency  
 
 **Business Problem**
 Marketing teams often struggle to determine which channels deliver the best return on investment and whether ad spend truly drives incremental conversions.
@@ -11,6 +18,10 @@ This project answers:
 - Which channel is most efficient?
 - Do ads actually increase conversions?
 - How should budget be reallocated?
+
+  ** Why This Matters**
+
+This analysis demonstrates how data-driven decision-making can improve marketing efficiency by focusing on return on investment rather than just total revenue.
 
  ** Dataset**
   A simulated dataset of 300 marketing observations including:
